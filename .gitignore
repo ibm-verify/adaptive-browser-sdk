@@ -1,3 +1,7 @@
+### NPM ###
+# NPM configuration files (may contain credentials or private registry info)
+.npmrc
+
 ### macOS ###
 # General
 .DS_Store
