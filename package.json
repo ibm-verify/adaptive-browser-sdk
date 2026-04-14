@@ -1,6 +1,6 @@
 {
   "name": "@ibm-verify/adaptive-browser",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "",
   "main": "adaptive-v1.js",
   "scripts": {
