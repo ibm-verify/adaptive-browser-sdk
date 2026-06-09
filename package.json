@@ -1,6 +1,6 @@
 {
   "name": "@ibm-verify/adaptive-browser",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "description": "",
   "main": "adaptive-v1.js",
   "scripts": {
@@ -22,7 +22,8 @@
   "overrides": {
     "elliptic": ">=6.6.1",
     "bn.js": "^4.12.3 || ^5.2.3",
-    "yargs-parser": "~21.1.1"
+    "yargs-parser": "~21.1.1",
+    "@babel/helpers": ">=7.29.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.12",
