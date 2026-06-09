@@ -60,7 +60,7 @@ The following npm overrides are configured in `package.json` to ensure secure ve
 "overrides": {
   "elliptic": ">=6.6.1",
   "bn.js": "^4.12.3 || ^5.2.3",
-  "yargs-parser": ">=13.1.2"
+  "yargs-parser": "~21.1.1"
 }
 ```
 

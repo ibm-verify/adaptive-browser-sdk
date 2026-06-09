@@ -156,7 +156,7 @@ git pull origin main
 
 ```bash
 npm version patch -m "chore: bump version to %s for security fixes"
-# This will create version 1.7.1
+# This will create the next patch version (e.g., 1.7.2)
 ```
 
 ### 3. Build and Publish

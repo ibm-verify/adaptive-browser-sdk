@@ -1,6 +1,6 @@
 ![Type](https://img.shields.io/badge/Type-JavaScript-blue.svg)
-![npm](https://img.shields.io/npm/v/adaptive-browser-sdk.svg?style=plastic)
-![NPM](https://img.shields.io/npm/l/adaptive-browser-sdk.svg?colorB=blue&style=plastic)
+![npm](https://img.shields.io/npm/v/@ibm-verify/adaptive-browser.svg?style=plastic)
+![NPM](https://img.shields.io/npm/l/@ibm-verify/adaptive-browser.svg?colorB=blue&style=plastic)
 
 # IBM Verify Adaptive Browser SDK
 
