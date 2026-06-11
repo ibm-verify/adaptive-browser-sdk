@@ -15,6 +15,6 @@
   },
   "dependencies": {
     "@ibm-verify/adaptive-browser": "^1.7.2",
-    "express": "^4.22.2"
+    "express": "^5.2.1"
   }
 }
