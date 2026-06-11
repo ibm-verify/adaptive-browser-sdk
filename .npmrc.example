@@ -1,0 +1,8 @@
+# Example .npmrc configuration for local development
+# Copy this file to .npmrc and configure with your credentials
+
+registry=https://na.artifactory.swg-devops.com/artifactory/sec-cloud-identity-common-rel-npm-virtual/
+always-auth=true
+
+# Add your authentication token:
+# //na.artifactory.swg-devops.com/artifactory/sec-cloud-identity-common-rel-npm-virtual/:_authToken=YOUR_TOKEN_HERE

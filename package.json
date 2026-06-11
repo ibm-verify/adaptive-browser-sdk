@@ -19,10 +19,6 @@
     "url": "https://github.com/IBM-Verify/adaptive-browser-sdk"
   },
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org",
-    "access": "public"
-  },
   "overrides": {
     "elliptic": ">=6.6.1",
     "bn.js": "^4.12.3 || ^5.2.3",

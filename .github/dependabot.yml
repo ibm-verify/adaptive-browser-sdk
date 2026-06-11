@@ -1,10 +1,4 @@
 version: 2
-registries:
-  artifactory:
-    type: npm-registry
-    url: https://na.artifactory.swg-devops.com/artifactory/sec-cloud-identity-common-rel-npm-virtual/
-    username: ${{secrets.ARTIFACTORY_USERNAME}}
-    password: ${{secrets.ARTIFACTORY_PASSWORD}}
 
 updates:
   # Main package dependencies
@@ -13,8 +7,6 @@ updates:
     schedule:
       interval: "weekly"
       day: "monday"
-    registries:
-      - artifactory
     open-pull-requests-limit: 10
     groups:
       production-dependencies:
@@ -34,8 +26,6 @@ updates:
     schedule:
       interval: "weekly"
       day: "monday"
-    registries:
-      - artifactory
     open-pull-requests-limit: 5
     labels:
       - "dependencies"
