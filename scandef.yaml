@@ -1,0 +1,17 @@
+defaults:
+  gitOrg: sec-ci
+  gitRepo: adaptive-browser-sdk
+  gitLabels:
+    - "security-scanning"
+  gitAssignees:
+    - isamdev
+
+squads:
+- name: development
+  sourceRepositories:
+  - name: IBM Verify Adaptive Browser SDK
+    sourceRepos: 
+    - name: github.com/ibm-verify/adaptive-browser-sdk
+      properties:
+      - repository_token_name: github-com-token
+  
