@@ -1,6 +1,6 @@
 defaults:
-  gitOrg: sec-ci
-  gitRepo: adaptive-browser-sdk
+  gitOrg: ibm-verify
+  gitRepo: SecScans_PRD0014838
   gitLabels:
     - "security-scanning"
   gitAssignees:
