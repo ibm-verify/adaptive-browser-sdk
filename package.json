@@ -26,8 +26,8 @@
     "@babel/helpers": ">=7.29.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.12",
-    "@babel/preset-env": "^7.17.12",
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
     "babel-minify": "^0.6.0-alpha.9",
     "babelify": "^10.0.0",
     "browserify": "^17.0.1"
